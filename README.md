@@ -20,7 +20,7 @@ This is a simple calculator web application created using HTML, CSS, and JavaScr
 
 ### Creator
 
-This calculator was created by Shoaib.
+This calculator was created by Shoaib Alam.
 
 ### Technologies Used
 
